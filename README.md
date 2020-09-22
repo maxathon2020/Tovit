@@ -2,11 +2,11 @@
 - Project Link : https://platform-hackathon.maxonrow.com/#/projects/5f57aa4d30c062001bf399ab
 - Must read document : https://github.com/maxonrow/maxathon
 - Team Members :
-  1. Mridul Bhandari - @mridulrb
-  2. Fawaz Siddiqi - @fawazsiddiqi
-  3. Selen Tumkaya
-  4. Faiz Hasan - @FaizHasan123
-  5. Sidra Ahmed
+  1. Mridul Bhandari - https://github.com/mridulrb
+  2. Fawaz Siddiqi - https://github.com/fawazsiddiqi
+  3. Selen Tumkaya - https://github.com/selentumkaya
+  4. Faiz Hasan - https://github.com/FaizHasan123
+  5. Sidra Ahmed - https://github.com/caffeinated-hooman
 
 # Tovit - COVID-19 Toolkit
 
