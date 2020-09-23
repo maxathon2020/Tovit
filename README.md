@@ -1,12 +1,17 @@
 # Tovit
 - Project Link : https://platform-hackathon.maxonrow.com/#/projects/5f57aa4d30c062001bf399ab
 - Must read document : https://github.com/maxonrow/maxathon
+- Team Name : Tovit
+- Track : Challenge #1 Physical Distancing
+- Project Description : A COVID-19 toolkit
 - Team Members :
   1. Mridul Bhandari - https://github.com/mridulrb
   2. Fawaz Siddiqi - https://github.com/fawazsiddiqi
   3. Selen Tumkaya - https://github.com/selentumkaya
   4. Faiz Hasan - https://github.com/FaizHasan123
-  5. Sidra Ahmed - https://github.com/ozzael-codes/
+  5. Sidra Ahmed - https://github.com/ozzael-codes
+
+## Project Demo Link - http://169.50.53.73:8080/
 
 # Tovit - COVID-19 Toolkit
 
