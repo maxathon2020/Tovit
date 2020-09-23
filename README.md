@@ -6,7 +6,7 @@
   2. Fawaz Siddiqi - https://github.com/fawazsiddiqi
   3. Selen Tumkaya - https://github.com/selentumkaya
   4. Faiz Hasan - https://github.com/FaizHasan123
-  5. Sidra Ahmed - https://github.com/caffeinated-hooman
+  5. Sidra Ahmed - https://github.com/ozzael-codes/
 
 # Tovit - COVID-19 Toolkit
 
