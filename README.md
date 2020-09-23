@@ -190,11 +190,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Authors
 
-* Mohammad Fawaz Siddiqi - https://github.com/fawazsiddiqi
-* Sidra Ahmed - https://github.com/ozzael-codes
-* Faiz Hassan - https://github.com/FaizHasan123
-* Mridul Bhandari - https://github.com/mridulrb
-* Gizem Selen Tumkaya - https://github.com/selentumkaya
+ * Fawaz Siddiqi - https://github.com/fawazsiddiqi
+ * Mridul Bhandari - https://github.com/mridulrb
+ * Selen Tumkaya - https://github.com/selentumkaya
+ * Faiz Hasan - https://github.com/FaizHasan123
+ * Sidra Ahmed - https://github.com/ozzael-codes
 
 ## Future Improvements
 - Link to test centers for slot booking and automating the delivery of test results.
