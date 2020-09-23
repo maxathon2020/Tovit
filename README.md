@@ -191,7 +191,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Authors
 
 * Mohammad Fawaz Siddiqi - https://github.com/fawazsiddiqi
-* Sidra Ahmed - https://github.com/caffeinated-hooman
+* Sidra Ahmed - https://github.com/ozzael-codes
 * Faiz Hassan - https://github.com/FaizHasan123
 * Mridul Bhandari - https://github.com/mridulrb
 * Gizem Selen Tumkaya - https://github.com/selentumkaya
