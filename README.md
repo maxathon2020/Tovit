@@ -79,7 +79,7 @@ To download Node & NPM please [click here](https://nodejs.org/en/download/)
 
 Start with cloning the repo 
 ```bash
-git clone https://github.com/mridulrb/Tovit.git
+git clone https://github.com/maxathon2020/Tovit.git
 ```
 
 Go into the project directory once cloned
