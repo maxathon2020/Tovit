@@ -177,12 +177,19 @@ To find an already running test please [click here](http://169.50.53.73:8080/)
 To access the test admin panel:
 - username: admin@admin.com
 - password: admin
+
 ## Built with
 
 - [IBM Classic Infrastructure (Public Virtual Server)](https://www.ibm.com/cloud/virtual-servers-cloud/)
 - [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 - [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery?location=eu-gb)
 - [Cloud Functions](https://cloud.ibm.com/functions/)
+
+## Slides
+<!-- ![Slides](Slides/Tovit-maxthon-final.pdf) -->
+<!-- <embed src="/Slides/Tovit-maxthon-final.pdf" type="application/pdf"> -->
+<object data="/Slides/Tovit-maxthon-final.pdf" type="application/pdf" width="100%"> 
+</object>
 
 ## Contributing
 
