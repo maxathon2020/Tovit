@@ -11,7 +11,8 @@
   4. Faiz Hasan - https://github.com/FaizHasan123
   5. Sidra Ahmed - https://github.com/ozzael-codes
 
-## Project Demo Link - http://169.50.53.73:8080/
+## [Project Demo](http://169.50.53.73:8080/)
+## [Slides](https://github.com/maxathon2020/Tovit/blob/master/Slides/Tovit-maxthon-final.pdf)
 
 # Tovit - COVID-19 Toolkit
 
@@ -184,12 +185,6 @@ To access the test admin panel:
 - [Watson Assistant](https://cloud.ibm.com/catalog/services/watson-assistant)
 - [Watson Discovery](https://cloud.ibm.com/catalog/services/discovery?location=eu-gb)
 - [Cloud Functions](https://cloud.ibm.com/functions/)
-
-## Slides
-<!-- ![Slides](Slides/Tovit-maxthon-final.pdf) -->
-<!-- <embed src="/Slides/Tovit-maxthon-final.pdf" type="application/pdf"> -->
-<object data="/Slides/Tovit-maxthon-final.pdf" type="application/pdf" width="100%"> 
-</object>
 
 ## Contributing
 
